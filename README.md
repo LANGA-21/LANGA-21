@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LANGA-21
-- 👀 I’m interested in Programing
+- 👀 I’m interested in Programming
 - 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
